@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "indigo-epigram-375800",
+  "private_key_id": "cf21d52cd430ddb421b700e47b8658577939fefd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzhzI7hLD8Z36P\n2CVFJ1WlWsEQUGf7ebPs8jIAm97Alb/vTVdt8kpxXG+6jxP+yEAtoo+qQuvFP0fg\nCgIvxugokaIJdUtwJRt13KMjkUL2wS96Ia2QSysZ/5NumjzBF9TLlRFXy4XLBPYc\nlioG/B4uhdDxUIoMroaHq8VFKkOH1lsg29sODbgqGuuLLPWO52moHv86kKhPfveK\nNQWfJF03fYtG3pZnxrsxhyP5rPJChx1cn+Tf2fIQwg5JOv6brICPuBwuNx9DdROA\nn2C7RwqSEcOnvr2nsdCCnOYcpitZJdIiblyuUgqYjYvPqIzpLHZnl4iv5SoMDfqv\nIilolFMFAgMBAAECggEARRYN2qGhikA5kBlZnlcYul1GVoTavweCmfhKDbnt6qa2\nCdz1fDX1N9KenGhbBX0CVY1tQ9Qk7u7/NdQkK0acKKCCfqlIsotVGfIiRZms71BA\nePtk01ZZ69NSZQmtv5DwLrfayLJldk8edrnCypVS+Aw+795SgbbXxnXvoEI3YpoR\nZpDa5XfrjE/151x7kWRPl938ST/WSTtuiieEAKt131U1hMTWoPaozTadBt2BtDwJ\nDj4R4pLdB982Aucv5Q/oUqBQvRy2f+QrLckGh0eb4+h9mqcG6y1xizEPFpZL8/qW\nqjLHYeEMUkNXEjvHyAB3lbK7eneXpT0lIAjG8ueGsQKBgQDmDa2blSAZTvHNmo2E\nDzlUQuJ61d+GH0mZMkjM8p8wF7v0VDtvQwHmXm7wsuCPquizcNAVKISb9DyH1cDp\n9gKyzL8GUUIbCCoX/kcJa4N/AyEFsaRkYUMLw3B0cD42yFRc0BiWy4kee6grSn1K\nsCs6wh2e5rvCDREDNNcEPc49NwKBgQDHxrPwEg2QhV9CKheOl4PYxhkw9mnrz3m0\nhuETCIgIgz381yp84NPWIArmhb9Yi7Rd4S7HoTKA1pnt4qKIe+z8tpUrKj/5Ga/4\nhnwHE9pps1tuOfGRUzgHXo2qEv66W+MX99EmBsElFeALZqW8j5E237ey1pHvzbqj\ndXFIDEvvowKBgQCjIFnVM6YiLAdr2ka0uLLXG+JKZbNtAGyIs85JfVUBniLJupy2\nZVZIivext7ViSjddXgY+qo91onb1fs2fWLFLJcHiceYlEuH+R3EJrfH9MzPMPM2r\n3AfVpIzuE9UZtW2Urn5xFvww4FA7+kLjng3ZSWIFlejXTbqdgm9g8451ewKBgFo9\n4+I6BW6XEKSupt1+i8xMD+0SIl6m5e8qTllurSRLRKEGAOdQF+DNsJ7ZI8o3sU4G\n/j6nDk0so3PVwF2uvSqav180QpmfhOHavgPkb/D3WAG+ouRmlxSdHZkJ448DGt4k\nz5FB09WQwBfmUk+O+qWzASQD0QBmCjz0PCuzgknJAoGABqnUg7pbjDzpLVnTTogo\nLnpX2oMqUKKS6kzcUFhxW7etqZ+RRBAdtKANT/6m6UP3VN0z+z4zCcePSA/2Ugna\nP3F6vcPmUDq6A07rd1H0T+d2X5zHTIks6neFEjj2Ak2QrDj0sTIQeOkzv06lN82s\nsPfp8vhtaSzIiGpMsKrsSrQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "debra-569@indigo-epigram-375800.iam.gserviceaccount.com",
+  "client_id": "114872269735878821443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/debra-569%40indigo-epigram-375800.iam.gserviceaccount.com"
+}
